@@ -1,0 +1,75 @@
+html {
+  text-align: center;
+  background-color: skyblue;
+  min-width: 350px;
+}
+
+#main {
+  margin: 20px auto;
+  padding: 5px;
+  max-width: 900px;
+  border: 0px solid;
+  border-radius: 10px;
+  background-color: white;
+}
+
+.labels{
+  margin: 10px;
+  padding: 5px;
+  display: inline-block;
+  width: 33%;
+  text-align: right;
+  vertical-align: top;
+  color: black;
+}
+
+.form-input{
+  display: inline-block;
+  width: 60%;
+  text-align: left;
+
+}
+.input-field{
+  height: 20px;
+  width: 300px;
+  padding: 5px;
+  margin: 10px;
+  border: 1px solid black;
+  border-radius: 7px;
+}
+
+.dropdown {
+  height: 30px;
+  width: 100px;
+  padding: 5px;
+  margin: 10px;
+  margin-top: 10px;
+  border: 1px solid black;
+  border-radius: 7px;
+}
+
+.radio, .checkbox {
+  position: relative;
+  left: -40px;
+  margin: 5px;
+  font-size: 14px;
+}
+
+#commentbox {
+  height: 70px;
+  width: 400px;
+  border: 1px solid black;
+  border-radius: 7px;
+  margin: 5px;
+  padding: 5px;
+  margin-top: 15px;
+}
+
+#submit {
+  margin: 20px;
+  height: 30px;
+  width:80px;
+  border: 1px solid black;
+  border-radius: 7px;
+
+}
